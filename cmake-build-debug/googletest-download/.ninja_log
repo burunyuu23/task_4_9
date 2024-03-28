@@ -1,0 +1,21 @@
+# ninja log v5
+2	53	7329874619731469	googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir	f9e6ee612e34ebbd
+2	53	7329874619731469	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir	f9e6ee612e34ebbd
+3	3252	7329875057449454	googletest-download-prefix/src/googletest-download-stamp/googletest-download-download	e80a030de6186788
+3252	4012	7329875065065453	googletest-download-prefix/src/googletest-download-stamp/googletest-download-update_disconnected	8f43a9de01ae8d07
+3	3252	7329875057449454	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download	e80a030de6186788
+3252	4012	7329875065065453	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-update_disconnected	8f43a9de01ae8d07
+4012	4060	7329875065535370	googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch_disconnected	dbc341d0564f1df6
+4012	4060	7329875065535370	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch_disconnected	dbc341d0564f1df6
+4060	4105	7329875065993846	googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure	8029029a108037e9
+4060	4105	7329875065993846	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure	8029029a108037e9
+4106	4156	7329875066477709	googletest-download-prefix/src/googletest-download-stamp/googletest-download-build	a0aa1e052ab9b83d
+4106	4156	7329875066477709	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build	a0aa1e052ab9b83d
+4156	4203	7329875066966592	googletest-download-prefix/src/googletest-download-stamp/googletest-download-install	260f9a326ba481f3
+4156	4203	7329875066966592	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install	260f9a326ba481f3
+4203	4249	7329875067428228	googletest-download-prefix/src/googletest-download-stamp/googletest-download-test	a5c64cf99300cacf
+4203	4249	7329875067428228	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test	a5c64cf99300cacf
+4249	4312	7329875068056220	CMakeFiles/googletest-download-complete	124f255bb639940f
+4249	4312	7329875068056220	googletest-download-prefix/src/googletest-download-stamp/googletest-download-done	124f255bb639940f
+4249	4312	7329875068056220	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/CMakeFiles/googletest-download-complete	124f255bb639940f
+4249	4312	7329875068056220	C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-done	124f255bb639940f

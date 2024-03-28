@@ -1,0 +1,14 @@
+# Target labels
+ googletest-download
+# Source files and their labels
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/CMakeFiles/googletest-download
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/CMakeFiles/googletest-download.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/CMakeFiles/googletest-download-complete.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-build.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-configure.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-download.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-install.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-mkdir.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-patch_disconnected.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-test.rule
+C:/Users/user/CLionProjects/task_4_9_v2/cmake-build-debug/googletest-download/googletest-download-prefix/src/googletest-download-stamp/googletest-download-update_disconnected.rule
