@@ -37,8 +37,8 @@ namespace Ui {
                 // TODO: разобраться с exclude
                 ->math(MathCheckboxExclude->isChecked(), MathCheckbox->isChecked())
                 ->physics(PhysicsCheckboxExclude->isChecked(),PhysicsCheckbox->isChecked())
-                ->physics(BiologyCheckboxExclude->isChecked(),BiologyCheckbox->isChecked())
-                ->physics(ChemistryCheckboxExclude->isChecked(), ChemistryCheckbox->isChecked())
+                ->biology(BiologyCheckboxExclude->isChecked(),BiologyCheckbox->isChecked())
+                ->chemistry(ChemistryCheckboxExclude->isChecked(), ChemistryCheckbox->isChecked())
                 ->getSelectedStudents()) {
                 stringList << student->toString().data();
             }
